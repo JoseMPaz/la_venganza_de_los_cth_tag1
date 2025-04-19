@@ -9,3 +9,33 @@
 [INFO] 15:52:28:511 client/(6428:6429): Inicia la atencion a los clientes
 [INFO] 16:40:58:190 client/(7957:7957): ********** Iniciando memoria **********
 [INFO] 16:40:58:198 client/(7957:7958): Inicia Atencion a clientes
+[INFO] 16:50:31:313 client/(8394:8394): ********** Iniciando memoria **********
+[INFO] 16:50:31:314 client/(8394:8395): Inicia Atencion a clientes
+[INFO] 16:50:51:166 client/(8394:8395): Nueva conexion de un cliente
+[INFO] 16:50:51:167 client/(8394:8425): Me llego el mensaje HOLA Memoria, SOY Kernel
+[INFO] 16:50:53:167 client/(8394:8425): Me llego el mensaje HOLA Memoria, SOY Kernel
+[INFO] 16:50:55:167 client/(8394:8425): Me llego el mensaje HOLA Memoria, SOY Kernel
+[INFO] 16:50:57:168 client/(8394:8425): Me llego el mensaje HOLA Memoria, SOY Kernel
+[INFO] 16:50:59:168 client/(8394:8425): Me llego el mensaje HOLA Memoria, SOY Kernel
+[ERROR] 16:51:01:169 client/(8394:8425): el cliente se desconecto. Terminando servidor
+[INFO] 16:51:31:438 client/(8394:8395): Nueva conexion de un cliente
+[INFO] 16:51:31:439 client/(8394:8456): Me llego el mensaje HOLA Memoria, SOY Kernel
+[INFO] 16:51:33:439 client/(8394:8456): Me llego el mensaje HOLA Memoria, SOY Kernel
+[INFO] 16:51:35:440 client/(8394:8456): Me llego el mensaje HOLA Memoria, SOY Kernel
+[INFO] 16:51:37:440 client/(8394:8456): Me llego el mensaje HOLA Memoria, SOY Kernel
+[INFO] 16:51:39:441 client/(8394:8456): Me llego el mensaje HOLA Memoria, SOY Kernel
+[ERROR] 16:51:41:442 client/(8394:8456): el cliente se desconecto. Terminando servidor
+[INFO] 16:51:43:687 client/(8394:8395): Nueva conexion de un cliente
+[INFO] 16:51:43:688 client/(8394:8508): Me llego el mensaje HOLA Memoria, SOY Kernel
+[INFO] 16:51:45:689 client/(8394:8508): Me llego el mensaje HOLA Memoria, SOY Kernel
+[INFO] 16:51:46:042 client/(8394:8395): Nueva conexion de un cliente
+[INFO] 16:51:46:043 client/(8394:8511): Me llego el mensaje HOLA Memoria, SOY Kernel
+[INFO] 16:51:47:690 client/(8394:8508): Me llego el mensaje HOLA Memoria, SOY Kernel
+[INFO] 16:51:48:043 client/(8394:8511): Me llego el mensaje HOLA Memoria, SOY Kernel
+[INFO] 16:51:49:690 client/(8394:8508): Me llego el mensaje HOLA Memoria, SOY Kernel
+[INFO] 16:51:50:044 client/(8394:8511): Me llego el mensaje HOLA Memoria, SOY Kernel
+[INFO] 16:51:51:690 client/(8394:8508): Me llego el mensaje HOLA Memoria, SOY Kernel
+[INFO] 16:51:52:044 client/(8394:8511): Me llego el mensaje HOLA Memoria, SOY Kernel
+[ERROR] 16:51:53:691 client/(8394:8508): el cliente se desconecto. Terminando servidor
+[INFO] 16:51:54:044 client/(8394:8511): Me llego el mensaje HOLA Memoria, SOY Kernel
+[ERROR] 16:51:56:044 client/(8394:8511): el cliente se desconecto. Terminando servidor
